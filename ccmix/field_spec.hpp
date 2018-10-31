@@ -1,3 +1,6 @@
+#ifndef CCMIX_FIELD_SPEC_HPP
+#define CCMIX_FIELD_SPEC_HPP
+
 namespace ccmix {
 
 class field_spec
@@ -15,3 +18,5 @@ private:
 };
 
 }
+
+#endif

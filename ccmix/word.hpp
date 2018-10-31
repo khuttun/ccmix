@@ -1,3 +1,6 @@
+#ifndef CCMIX_WORD_HPP
+#define CCMIX_WORD_HPP
+
 #include "ccmix/field_spec.hpp"
 #include <cstdint>
 
@@ -151,3 +154,5 @@ private:
 };
 
 }
+
+#endif

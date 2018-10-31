@@ -1,3 +1,6 @@
+#ifndef CCMIX_MACHINE_HPP
+#define CCMIX_MACHINE_HPP
+
 #include "ccmix/word.hpp"
 #include <cstdint>
 
@@ -398,3 +401,5 @@ private:
 };
 
 }
+
+#endif
